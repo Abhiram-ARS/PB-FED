@@ -68,4 +68,6 @@ PB-FED is a Python-based GUI application designed for the secure encryption and 
 
 ## Liscense 
 
+[**View License**](https://github.com/Abhiram-ARS/PB-FED/blob/e0f45e5c91316b1047b72987d93838ccc7232d74/LICENSE)
+
 Liscense under MIT License, Which is a short and permissive open-source license that allows anyone to use, modify, distribute, or even sell the software, as long as the original license and copyright notice are included. It imposes minimal restrictions and is widely used in both open-source and commercial projects. However, it provides no warranty, meaning the author is not liable for any damages caused by the software. Its simplicity and flexibility make it one of the most popular licenses in the software development community.
