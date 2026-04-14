@@ -3,7 +3,7 @@
 # Author      : https://github.com/Abhiram-ARS
 # Description : This Python-based tool provides a simple yet secure way 
 #               to encrypt and decrypt messages using a password.
-# Version     : Command Line Interface - I (cli-1) : Windows
+# Version     : Encryption-Decryption Engine - I (cli-1) : Windows
 # -----------------------------------------------------------------------------
 
 def clear(n):
